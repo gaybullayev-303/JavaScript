@@ -34,12 +34,16 @@
 // 2. Non primitive 
 // object = ( object, array, function )
 
+
 // 2.1 - object : {key: value , key2 : value2}
 // let data = {name: ali , age: 20};
 
+
 // 2.2 - array : [hohlagan narsa yozish mumkin!]
 
+
 // 2.3 - function :  (3 xil boladi)
+
 
 //  1. function xisobla1 () {}
 // xisobla1();
@@ -47,6 +51,7 @@
 
 // 2. let xisobla2 = function() {}
 // xisobla2();
+
 
 //  let xisobla3 = () => { console.log(100 - 20)}
 // xisobla3();
