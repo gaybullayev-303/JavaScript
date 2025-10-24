@@ -47,3 +47,7 @@
 
  
 // ------------------------------------------------------
+
+//  git add .
+// git commit -m "5-dars"
+// git push origin master
