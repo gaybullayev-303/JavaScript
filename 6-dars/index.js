@@ -68,3 +68,87 @@
 // else{
 //     console.log("chol");
 // }
+
+// =========================================================================
+
+// let name = prompt("mashina markasini kiriting")
+
+// if (name === "damas" || name === "nexia" || name === "cobalt" || name === "malibu" || name === "spark" || name === "gentra"){
+//     console.log("GM autos");
+    
+// }
+
+
+// else if (name === "supra" || name === "camry" || name === "corolla" || name === "prado"){
+//     console.log("TOYOTA autos");
+    
+// }
+
+// else if (name === "bmw i118" || name === "bmw m5" || name === "bmw m4" || name === "bmw m8"){
+//     console.log("BMW autos")
+    
+// }
+
+// else if (name === "cls 63" || name === "cls 300" || name === "cls 350" || name === "maybach"){
+//     console.log("Mercedes Benz autos");
+    
+// }
+
+// else{
+//     console.log("Mashina haqida malumot topilmadi");
+// }
+
+// ====================================================================
+
+
+// let place = prompt("shahar nomini yozing")
+
+// if (place === "california" || place === "new york" || place === "arizona" || name === "washington"){
+//     console.log("USA");
+    
+// }
+
+
+// else if (place === "tashkent" || place === "namangan" || place === "samarqand" || place === "buxoro"){
+//     console.log("Uzbakistan");
+    
+// }
+
+// else if (place === "moskva" || place === "krim" || place === "vladivostok" || place === "sank-peterburk"){
+//     console.log("Russia")
+    
+// }
+
+// else if (place === "london" || place === "manchester" || place === "liverpool" || place === "lecter"){
+//     console.log("England");
+    
+// }
+
+// else{
+//     console.log("Shahar haqida malumot topilmadi");
+// }
+
+// =========================================================================================
+
+// let lesson = prompt("Mavzu nomini yozing")
+
+// if (lesson === "style" || lesson === "class" || lesson === "img" || lesson === "atribute"){
+//     console.log("HTML");
+    
+// }
+
+
+// else if (lesson === "flex" || lesson === "grid" || lesson === "z-index" || lesson === "background"){
+//     console.log("CSS");
+    
+// }
+
+// else if (lesson === "primitives" || lesson === "git" || lesson === "variable" || lesson === "operations"){
+//     console.log("JavaScript")
+    
+// }
+
+
+// else{
+//     console.log("mavzu haqida malumot topilmadi");
+// }
