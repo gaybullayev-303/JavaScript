@@ -33,29 +33,29 @@
 
 // for(let i = 1; i <= 10; i++){
 //     if(i = 1)console.log("bu toq son");
-        
-    
+
+
 //        if(i === 2)console.log("xto");
-        
+
 //         else if(i === 3)console.log("bu toq son");
-        
+
 //        else if(i === 4)console.log("bu juft son");
-        
+
 //        else if(i === 5)console.log("bu toq son");
-        
+
 //        else if(i === 6)console.log("bu juft son");
-        
+
 //        else if(i === 7)console.log("bu toq son");
-        
+
 //        else if(i === 8)console.log("bu juft son");
-        
-    
+
+
 //        else if(i === 9)console.log("bu toq son");
-        
-      
+
+
 //        else if(i === 10)console.log("bu juft son");
-        
-    
+
+
 // }
 
 
@@ -74,4 +74,20 @@
 // }
 // console.log(sum_toq);
 // console.log(sum_juft);
+
+
+
+
+// ============================================================
+// HOMEWORK
+
+
+
+// for (i = 0 ;true ;i++){
+//     let a = prompt("raqam kiriting")
+//     if (a > 100 || a === null){
+//         console.log(a);
+//          break;
+//     }
+//     }   
 
