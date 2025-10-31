@@ -1,3 +1,6 @@
+// while ---
+// do while ---
+
 // while (1) {
 //     let a = prompt("raqam kiriting")
 //     if (a > 100 || a === null) {
@@ -13,7 +16,7 @@
 //         console.log(a);
 //         break;
 //     }
-// } while (" ");
+// } while ("");
 
 
 // let n = 20;
@@ -32,3 +35,9 @@
 //     console.log(i);
 //   }
 // }
+
+
+
+// label -------
+ 
+// name: for(){}  "shunaqa yoziladi"
