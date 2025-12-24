@@ -34,3 +34,13 @@
 // // let arr2 = arr.sort((a,b) => a.localeCompare(b));
 // //     console.log(arr2);
 // let sorter = (textbooks) => textbooks.sort((a, b) => a.toLowerCase() > b.toLowerCase() ? 1 : -1)
+
+
+
+// -------------------------------------------------------
+
+// let s = "I love arrays they are my favorite"
+
+// let stringToArray = (s) => s.split(" ")
+
+// console.log(stringToArray(s));
