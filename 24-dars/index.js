@@ -44,3 +44,11 @@
 // let stringToArray = (s) => s.split(" ")
 
 // console.log(stringToArray(s));
+// ---------------------------------------
+
+
+// let squareSum = (numbers) => {
+//   let sum = 0;
+//   numbers.forEach((value) => sum += value**2)
+//   return sum
+// }
